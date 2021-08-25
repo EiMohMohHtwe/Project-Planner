@@ -3,12 +3,14 @@
     {
       "id": 1,
       "title": "Project Title 1",
-      "detail": "Project detail 1"
+      "detail": "Project detail 1",
+      "complete": true
     },
     {
       "id": 2,
       "title": "Project Title 2",
-      "detail": "Project detail 2"
+      "detail": "Project detail 2",
+      "complete": true
     }
   ]
 }
